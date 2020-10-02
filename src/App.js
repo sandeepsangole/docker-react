@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-         Docker AWS Learning !!!
+          Docker AWS Learning
         </a>
       </header>
     </div>
