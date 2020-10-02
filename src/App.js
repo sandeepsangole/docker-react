@@ -16,7 +16,7 @@ function App() {
           target="_blank"
           rel="noopener noreferrer"
         >
-          Docker AWS Learning
+          Learn React or Angular you decide Okay changed Sandeep S
         </a>
       </header>
     </div>
